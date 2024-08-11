@@ -1,7 +1,7 @@
 @extends('Smsir::components.index')
 @section('body')
 <div class="row m-1">
-    <h3>پیام های دریافتی امروز</h3>
+    <h3>پیام های ارسالی امروز</h3>
 </div>
 <div class="row m-1">
     <div class="col-12">
